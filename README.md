@@ -12,3 +12,4 @@ YouTube 頻道 [像素腦 @pixelbraintw](https://www.youtube.com/@pixelbraintw) 
 | EP04 | AI 畫圖原理：從一片雜訊畫出一張圖（自己訓練一個小擴散模型） | [在 Colab 開啟](https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/ep04-diffusion/ep04_diffusion.ipynb) |
 | P02 | 像素腦讀論文：YOLO 物件偵測（YOLO26 實測＋照論文想法寫的示意版，不是原作程式） | [在 Colab 開啟](https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/p02-yolo/p02_yolo.ipynb) |
 | EP06 | 120Hz 和 60Hz 差在哪？為什麼高更新率滑起來比較順 | [在 Colab 開啟](https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/ep06-refresh-rate/ep06_refresh.ipynb) |
+| EP08 | CPU 和 GPU 差在哪？一個一個算對上一次交一大批（最後一格可用 Colab 的 GPU 實測） | [在 Colab 開啟](https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/ep08-cpu-gpu/ep08_cpu_gpu.ipynb) |
