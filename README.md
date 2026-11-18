@@ -13,4 +13,5 @@ YouTube 頻道 [像素腦 @pixelbraintw](https://www.youtube.com/@pixelbraintw) 
 | P02 | 像素腦讀論文：YOLO 物件偵測（YOLO26 實測＋照論文想法寫的示意版，不是原作程式） | [在 Colab 開啟](https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/p02-yolo/p02_yolo.ipynb) |
 | EP06 | 120Hz 和 60Hz 差在哪？為什麼高更新率滑起來比較順 | [在 Colab 開啟](https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/ep06-refresh-rate/ep06_refresh.ipynb) |
 | EP08 | CPU 和 GPU 差在哪？一個一個算對上一次交一大批（最後一格可用 Colab 的 GPU 實測） | [在 Colab 開啟](https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/ep08-cpu-gpu/ep08_cpu_gpu.ipynb) |
-| EP09 | iPhone Duo 螢幕有玻璃，為什麼摺得起來？摺痕模擬器 | [在 Colab 開啟](https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/ep09-foldable-screen/ep09_foldable_screen.ipynb) |
+| EP09 | CUDA 是什麼？自己寫的迴圈和最佳化函式庫差多少（CPU 示意） | [在 Colab 開啟](https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/ep09-cuda/ep09_cuda.ipynb) |
+| EP10 | iPhone Duo 螢幕有玻璃，為什麼摺得起來？摺痕模擬器 | [在 Colab 開啟](https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/ep10-foldable-screen/ep10_foldable_screen.ipynb) |
