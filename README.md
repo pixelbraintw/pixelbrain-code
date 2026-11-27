@@ -20,7 +20,6 @@ YouTube 頻道 [像素腦 @pixelbraintw](https://www.youtube.com/@pixelbraintw) 
 | EP11 | [「所有程式碼都是垃圾，除了我的」SpaceX 旗下工程師：AI 為什麼越寫越爛？｜像素腦 EP11](https://youtu.be/QVnmAnDSFjA) | <a href="https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/ep11-ai-slop/ep11_ai_slop.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="在 Colab 開啟"></a> |
 | EP12 | [數學家和 Claude 宣稱證明黎曼猜想！這道題到底在猜什麼？｜像素腦 EP12](https://youtu.be/MyNgZa1m1-s) | <a href="https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/ep12-riemann/ep12_riemann.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="在 Colab 開啟"></a> |
 | EP13 | [為什麼不把 GTA 6 做成 60 幀？30 幀和 60 幀差在哪｜像素腦 EP13](https://youtu.be/nnE9Vo6b8Bk) | <a href="https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/ep13-gta6-fps/ep13_gta6_fps.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="在 Colab 開啟"></a> |
-| EP14 | [一場假面試，讓幣安被偷 63 億美元！北韓駭客怎麼騙進工程師電腦？｜像素腦 EP14](https://youtu.be/uATXzxqKXhs) | <a href="https://colab.research.google.com/github/pixelbraintw/pixelbrain-code/blob/main/ep14-binance-fake-interview/ep14_binance_fake_interview.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="在 Colab 開啟"></a> |
 
 ## 像素腦讀論文
 
